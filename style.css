@@ -5,12 +5,12 @@ body {
 }
 
 header {
-    background-color: #08ee2e;
+    background-color: #f0f0f0;
     padding: 20px;
 }
 
 h1 {
-    color: #666
+    color: #333;
 }
 
 main {
@@ -19,7 +19,6 @@ main {
     padding: 20px;
 }
 
-p {css
-
+p {
     color: #666;
 }
