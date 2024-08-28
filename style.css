@@ -1,6 +1,6 @@
-
-<div class="container">
-    <img src="imagem.jpg" width="320" height="205" />
-</div>
-
-.container img { max-width: 200px; }
+.container img {
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+}
