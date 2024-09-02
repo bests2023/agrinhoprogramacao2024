@@ -23,7 +23,7 @@
     font-size: 30px;
     text-align: center;
     }
-    
+
 
 
 
@@ -37,49 +37,11 @@
 
 }
 
-.nossa-escola-título {
-    font-size: 32px;
-    padding: 24px;
-}
-
-.nossa-escola-texto1 {
-    font-size: 26px;
-    padding: 24px;
-}
-
-.nossa-escola-texto2 {
-    font-size: 26px;
-    padding: 24px;
-}
 
 
 
-.equipe {
-    background-color: #31ff08 ;
-    color: white;
-}
 
-.professor{
-    width: 120px;
-}
 
-.ícone {
-    width: 24px;
-}
-
-.equipe-div {
-    text-align: center;
-    padding: 16px 0;
-}
-
-.equipe-título{
-    text-align: center;
-}
-
-.equipe-div-todos {
-    display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
-}
 
 .rodapé{
     background-color: #31ff08;
@@ -92,6 +54,3 @@
 }
 
 
-.rodapé-ícone{
-    width: 30px;
-}
