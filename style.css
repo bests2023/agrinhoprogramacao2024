@@ -5,7 +5,7 @@
 }
 
 .cabeçalho {
-    background-color: #300301;
+    background-color:#31ff08;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -13,7 +13,7 @@
 }
 
 .cabeçalho-título {
-    color: #C72A2C;
+    color: #31ff08;
     font-size: 54px;
 }
 
@@ -37,8 +37,8 @@
 }
 
 .nossa-escola {
-    background-image: linear-gradient(#300301, #960903);
-    color: white;
+    background-image: linear-gradient(#31ff08, #31ff08);
+    color: #31ff08;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -70,7 +70,7 @@
 }
 
 .equipe {
-    background-color: #cd5f05db;
+    background-color: #31ff08 ;
     color: white;
 }
 
@@ -97,8 +97,8 @@
 }
 
 .rodapé{
-    background-color: #300301;
-    color: #960903;
+    background-color: #31ff08;
+    color: #31ff08;
     font-size: 20px;
     display: flex;
     justify-content: space-around;
@@ -106,9 +106,6 @@
     align-items: center;
 }
 
-.rodapé-imagem{
-    width: 70px;
-}
 
 .rodapé-ícone{
     width: 30px;
