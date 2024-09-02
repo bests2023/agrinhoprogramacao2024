@@ -2,6 +2,11 @@
     margin: 50;
     padding: 50;
 }
+ {
+
+}
+
+
 
 .cabeçalho {
     background-color:#31ff08;
@@ -12,7 +17,7 @@
 }
 
 .cabeçalho-título {
-    color: #31ff08;
+    color: #000000;
     font-size: 100px;
 }
 
@@ -21,9 +26,7 @@
     color: black;
     font-size: 300px;
     text-align: center;
-
-
-}
+    }
 
 
 
