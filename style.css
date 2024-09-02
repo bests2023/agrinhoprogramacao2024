@@ -16,24 +16,9 @@
     font-size: 75px;
 }
 
-.cabeçalho-lista {
-    color: white;
-    font-size: 22px;
-}
 
-.cabeçalho-logotipo {
-    width: 120px;
-}
 
-.cabeçalho-lista-item1 {
-    display: inline-block;
-    margin: 0 16px;
-}
 
-.cabeçalho-lista-item2 {
-    display: inline-block;
-    margin: 0 16px;
-}
 
 .nossa-escola {
     background-image: linear-gradient(#31ff08, #31ff08);
