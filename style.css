@@ -31,6 +31,7 @@ body{
 
    .imagem {
     text-align: center;
+     align-items: center;
     inline-size: 500px;
 }
 
