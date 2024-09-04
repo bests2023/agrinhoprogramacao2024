@@ -30,8 +30,8 @@ body{
   
 
    .imagem {
-    align-items: center;
-    inline-size: 250px;
+    text-align: center;
+    inline-size: 500px;
 }
 
 
