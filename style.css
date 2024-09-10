@@ -33,7 +33,7 @@ body{
    .imagem {
     text-align: center;
      align-items: center;
-    inline-size: 40px;
+    inline-size: 80px;
 }
 
 
@@ -53,7 +53,7 @@ body{
 
 .rodape {
     color: black;
-    font-size: 80px;
+    font-size: 50px;
     text-align: center;
     background-color: #2a9913;
 }
