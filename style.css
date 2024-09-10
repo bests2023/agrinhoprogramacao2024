@@ -33,8 +33,7 @@ body{
    .imagem {
     text-align: center;
      align-items: center;
-    inline-size: 360px;
-    width: 50%;
+    inline-size: 50px;
 }
 
 
@@ -52,9 +51,9 @@ body{
 }
 
 
-.footer {
+.nome {
     color: black;
-    font-size: 30px;
+    font-size: 40px;
     text-align: center;
     background-color: #2a9913;
 }
