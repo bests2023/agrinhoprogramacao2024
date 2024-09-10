@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: #319b1c;
+    background-color: #31ff08;
 }
 .cabeçalho-título {
     
@@ -13,7 +13,8 @@ body{
     text-align: center;
     display: flex ;
     justify-content: space-around;
-    }
+    background-color: #2a9913;
+   }
 
 
 .titulo-soja {
@@ -54,6 +55,7 @@ body{
     color: black;
     font-size: 40px;
     text-align: center;
+    background-color: #2a9913;
 }
 
 
