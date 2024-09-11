@@ -31,11 +31,13 @@ body{
 
   
 
-   .div style {
+   .div {
     text-align: center;
      align-items: center;
     inline-size: 30px;
+    text-size-adjust: 40;
 }
+
 
 
 .cotacao {
