@@ -29,12 +29,9 @@ body{
     text-align: center;
 }
 
-.Lote_de_soja_argentina.jpg {
-    inline-size: 25px;
-}
   
 
-   .div {
+   .div style {
     text-align: center;
      align-items: center;
     inline-size: 30px;
